@@ -1,6 +1,6 @@
 {
   "name": "jad",
-  "version": "1.0.0",
+  "version": "0.0.0-0",
   "description": "'New Javascript framework'",
   "main": "index.js",
   "scripts": {
